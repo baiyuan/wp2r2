@@ -5,7 +5,7 @@
 # ==========================================
 
 # 定義外掛根目錄
-PLUGIN_DIR="wp-google-r2-backup"
+PLUGIN_DIR="wp2r2"
 INC_DIR="$PLUGIN_DIR/includes"
 
 echo "正在建立安全強化版目錄結構..."
